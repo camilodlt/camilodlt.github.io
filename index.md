@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+This blogs focuses on R and Python tutorials for machine learning and data visualisation. 
 
-Maybe say a some things about yourself.
+It also provides my opinion on some learning ressources that I hapenned to read or follow. 
 
-Or maybe what you plan to blog about.
